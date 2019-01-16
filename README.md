@@ -141,7 +141,36 @@ https://www.theverge.com/2018/3/23/17154570/alt-ctrl-gdc-alternative-video-game-
 
 
 ## Parts & materials resources
-(TBD)
+
+Materials:
+Scavenge & upcycle, don't buy: trash, skips, fleemarkets, cutting-service leftovers (ask)
+
+Components:
+https://mandu.fi/
+https://www.partco.fi
+http://www.spelektroniikka.fi
+http://www.kouluelektroniikka.fi/
+https://www.yeint.fi/
+http://www.bebek.fi/
+
+https://aliexpress.com/
+https://www.ebay.co.uk/
+https://fi.rsdelivers.com
+https://www.mouser.fi/
+https://www.digikey.fi/
+
+https://shop.pimoroni.com/
+https://www.seeedstudio.io
+
+Components & quality guides:
+https://learn.adafruit.com/
+https://learn.sparkfun.com/
+
+
+
+
+
+
 
 
 
